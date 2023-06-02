@@ -1,6 +1,6 @@
 h1,p{
     font-family: 'Libre Baskerville', serif;
-    color: white;
+    color: black;
     text-transform: uppercase;
 }
 
@@ -11,7 +11,7 @@ body{
 }
 
 img{
-    border: 5px solid white;
+    border: 5px solid black;
     margin-top: 20px;
     border-radius: 50%;
 }
