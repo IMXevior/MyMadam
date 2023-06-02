@@ -6,14 +6,21 @@ h1,p{
 
 body{
     background-color: black;
+    height: 100%;
+    width: 99%;
 }
 
 img{
     border: 5px solid white;
-    margin-top: 40px;
+    margin-top: 20px;
     border-radius: 50%;
 }
 
 div{
     text-align: center;
+    
+}
+
+img.madma{
+    height: 600px;
 }
